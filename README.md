@@ -99,7 +99,7 @@ Web applications and browser-based experiences powered by machine learning or AI
 - [kauanevieira/neuro-pet-ai](https://github.com/kauanevieira/neuro-pet-ai) – An evolutionary smart assistant for pets, built with React and Chrome's experimental Web AI. The project demonstrates advanced artificial intelligence concepts running entirely in the browser, with no backend and no calls to external APIs. **by [@kauanevieira](https://github.com/kauanevieira)**
 - [kauanevieira/win-game](https://github.com/kauanevieira/win-game) – This project was developed as part of a graduate program in Software Engineering with a focus on AI applications, specifically exploring single-client architecture, asynchronous processing using Web Workers, and in-browser neural network inference with TensorFlow.js and a YOLO model adapted for web execution. **by [@kauanevieira](https://github.com/kauanevieira)**
 - [gil-gam/papermindai](https://github.com/gil-gam/papermindai/) `📇` `🏠` `🔗` – A RAG assistant that answers questions based on course materials from the Graduate Program in Software Engineering with Applied AI. **by [@gil-gam](https://github.com/gil-gam)**
-
+- [alan-miranda94/the-demon-kings-last-defense](https://github.com/alan-miranda94/the-demon-kings-last-defense) – A Next.js and Phaser game where the player controls the Demon King and uses AI-generated invocations, dialogue, images, and audio to stop the Hero from reaching the castle. **by [@alan-miranda94](https://github.com/alan-miranda94)**
 ---
 
 ### ⚡ Integrations & Automations
